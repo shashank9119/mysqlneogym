@@ -1,8 +1,8 @@
 <?php
 // Database configuration
-$host = "localhost";  // or your database server (e.g., "localhost")
-$username = "root";   // your MySQL username (default is "root" for XAMPP)
-$password = "";       // your MySQL password (default is empty for XAMPP)
+$host = "newmysql9897.mysql.database.azure.com";  // or your database server (e.g., "localhost")
+$username = "shashank";   // your MySQL username (default is "root" for XAMPP)
+$password = "Login@123#456";       // your MySQL password (default is empty for XAMPP)
 $database = "gym"; // your database name
 
 // Create connection
